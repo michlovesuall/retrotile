@@ -1,0 +1,8 @@
+{
+  "name": "Retro Tile Quiz Showdown",
+  "description": "Retro arcade trivia challenge with dynamic colored difficulty tiles, live team buzzers, point stealing, individual & group scoring, and real-time multiplayer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
