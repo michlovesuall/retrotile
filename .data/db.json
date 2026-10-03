@@ -2559,149 +2559,748 @@
       },
       "hostToken": "host-game-mul4z3pa-mul4z3pa-lhcsli",
       "updatedAt": 1790593226145
+    },
+    {
+      "id": "game-murzfm7d",
+      "title": "3/4 TILE SHOWDOWN",
+      "phase": "setup",
+      "teams": [],
+      "turnOrder": [],
+      "currentTurnIndex": 0,
+      "selectedTileId": null,
+      "answeredTileIds": [],
+      "timerSecondsRemaining": 30,
+      "timerDurationSeconds": 30,
+      "totalQuestionsTarget": 50,
+      "isTimerRunning": false,
+      "questionStartedAt": null,
+      "stealState": null,
+      "lastAnswerResult": null,
+      "hostToken": "host-game-murzfm7d-murzfm7d-qdquc7",
+      "updatedAt": 1791007182121
     }
   ],
   "questions": [
     {
-      "id": "q-b-100-0",
+      "id": "custom-beginner-murzcuf7-0",
       "category": "beginner",
       "points": 2,
-      "question": "Question 1 for 100 tiles",
-      "answer": "Answer 1"
+      "question": "What is the smallest unit of storage in a computer?",
+      "answer": "Bit",
+      "hint": "It can store either 0 or 1.",
+      "_id": "6ac099c3bfad17e284d13161"
     },
     {
-      "id": "q-b-100-1",
+      "id": "custom-beginner-murzcuf7-1",
       "category": "beginner",
       "points": 2,
-      "question": "Question 2 for 100 tiles",
-      "answer": "Answer 2"
+      "question": "How many bits make up one byte?",
+      "answer": "8 bits",
+      "hint": "Think of the basic unit commonly used for a character.",
+      "_id": "6ac099c3bfad17e284d13162"
     },
     {
-      "id": "q-b-100-2",
+      "id": "custom-beginner-murzcuf7-2",
       "category": "beginner",
       "points": 2,
-      "question": "Question 3 for 100 tiles",
-      "answer": "Answer 3"
+      "question": "What number system uses only the digits 0 and 1?",
+      "answer": "Binary Number System",
+      "hint": "It is a base-2 number system.",
+      "_id": "6ac099c3bfad17e284d13163"
     },
     {
-      "id": "q-b-100-3",
+      "id": "custom-beginner-murzcuf7-3",
       "category": "beginner",
       "points": 2,
-      "question": "Question 4 for 100 tiles",
-      "answer": "Answer 4"
+      "question": "What is the base of the decimal number system?",
+      "answer": "10",
+      "hint": "It uses the digits 0 through 9.",
+      "_id": "6ac099c3bfad17e284d13164"
     },
     {
-      "id": "q-b-100-4",
+      "id": "custom-beginner-murzcuf7-4",
       "category": "beginner",
       "points": 2,
-      "question": "Question 5 for 100 tiles",
-      "answer": "Answer 5"
+      "question": "What number system uses the digits 0 to 7?",
+      "answer": "Octal Number System",
+      "hint": "It is a base-8 number system.",
+      "_id": "6ac099c3bfad17e284d13165"
     },
     {
-      "id": "q-b-100-5",
+      "id": "custom-beginner-murzcuf7-5",
       "category": "beginner",
       "points": 2,
-      "question": "Question 6 for 100 tiles",
-      "answer": "Answer 6"
+      "question": "What number system uses the digits 0 to 9 and the letters A to F?",
+      "answer": "Hexadecimal Number System",
+      "hint": "It is a base-16 number system.",
+      "_id": "6ac099c3bfad17e284d13166"
     },
     {
-      "id": "q-b-100-6",
+      "id": "custom-beginner-murzcuf7-6",
       "category": "beginner",
       "points": 2,
-      "question": "Question 7 for 100 tiles",
-      "answer": "Answer 7"
+      "question": "What do we call the physical components of a computer?",
+      "answer": "Hardware",
+      "hint": "Examples include the keyboard, monitor, processor, and memory.",
+      "_id": "6ac099c3bfad17e284d13167"
     },
     {
-      "id": "q-b-100-7",
+      "id": "custom-beginner-murzcuf7-7",
       "category": "beginner",
       "points": 2,
-      "question": "Question 8 for 100 tiles",
-      "answer": "Answer 8"
+      "question": "What do we call the programs that run a computer?",
+      "answer": "Software",
+      "hint": "Examples include applications and operating systems.",
+      "_id": "6ac099c3bfad17e284d13168"
     },
     {
-      "id": "q-b-100-8",
+      "id": "custom-beginner-murzcuf7-8",
       "category": "beginner",
       "points": 2,
-      "question": "Question 9 for 100 tiles",
-      "answer": "Answer 9"
+      "question": "What computer system element refers to facts or unorganized raw materials?",
+      "answer": "Data",
+      "hint": "It may consist of words, numbers, images, or sounds.",
+      "_id": "6ac099c3bfad17e284d13169"
     },
     {
-      "id": "q-b-100-9",
+      "id": "custom-beginner-murzcuf7-9",
       "category": "beginner",
       "points": 2,
-      "question": "Question 10 for 100 tiles",
-      "answer": "Answer 10"
+      "question": "What do we call data that has already been processed?",
+      "answer": "Information",
+      "hint": "It is the meaningful result produced from data.",
+      "_id": "6ac099c3bfad17e284d1316a"
     },
     {
-      "id": "q-b-100-10",
+      "id": "custom-beginner-murzcuf8-10",
       "category": "beginner",
       "points": 2,
-      "question": "Question 11 for 100 tiles",
-      "answer": "Answer 11"
+      "question": "Which hardware organization component allows users to enter data and instructions into a computer?",
+      "answer": "Input Devices",
+      "hint": "Keyboard and mouse are examples.",
+      "_id": "6ac099c3bfad17e284d1316b"
     },
     {
-      "id": "q-b-100-11",
+      "id": "custom-beginner-murzcuf8-11",
       "category": "beginner",
       "points": 2,
-      "question": "Question 12 for 100 tiles",
-      "answer": "Answer 12"
+      "question": "What type of memory stores data temporarily while a program is running?",
+      "answer": "Primary Memory",
+      "hint": "RAM is an example.",
+      "_id": "6ac099c3bfad17e284d1316c"
     },
     {
-      "id": "q-b-100-12",
+      "id": "custom-beginner-murzcuf8-12",
       "category": "beginner",
       "points": 2,
-      "question": "Question 13 for 100 tiles",
-      "answer": "Answer 13"
+      "question": "What software supports basic computer functions such as scheduling tasks, executing applications, and controlling peripherals?",
+      "answer": "Operating System",
+      "hint": "Windows and Linux are examples.",
+      "_id": "6ac099c3bfad17e284d1316d"
     },
     {
-      "id": "q-b-100-13",
+      "id": "custom-beginner-murzcuf8-13",
       "category": "beginner",
       "points": 2,
-      "question": "Question 14 for 100 tiles",
-      "answer": "Answer 14"
+      "question": "What OS component is responsible for creating, executing, suspending, resuming, and terminating processes?",
+      "answer": "Process Management",
+      "hint": "It manages programs that are currently being executed.",
+      "_id": "6ac099c3bfad17e284d1316e"
     },
     {
-      "id": "q-b-100-14",
+      "id": "custom-beginner-murzcuf8-14",
       "category": "beginner",
       "points": 2,
-      "question": "Question 15 for 100 tiles",
-      "answer": "Answer 15"
+      "question": "What word is formed from the combination of \"malicious\" and \"software\"?",
+      "answer": "Malware",
+      "hint": "It refers to software intended to perform unwanted or harmful actions.",
+      "_id": "6ac099c3bfad17e284d1316f"
     },
     {
-      "id": "q-b-100-15",
+      "id": "custom-beginner-murzcuf8-15",
       "category": "beginner",
       "points": 2,
-      "question": "Question 16 for 100 tiles",
-      "answer": "Answer 16"
+      "question": "What are the three components of the CIA Triad?",
+      "answer": "Confidentiality, Integrity, and Availability",
+      "hint": "These are the three major goals discussed in computer security.",
+      "_id": "6ac099c3bfad17e284d13170"
     },
     {
-      "id": "q-b-100-16",
-      "category": "beginner",
-      "points": 2,
-      "question": "Question 17 for 100 tiles",
-      "answer": "Answer 17"
+      "id": "custom-easy-murzdgyv-0",
+      "category": "easy",
+      "points": 4,
+      "question": "A computer receives raw facts such as names, numbers, images, and sounds. What computer system element do these belong to?",
+      "answer": "Data",
+      "hint": "These are unorganized raw materials before processing.",
+      "_id": "6ac099c3bfad17e284d13171"
     },
     {
-      "id": "q-b-100-17",
-      "category": "beginner",
-      "points": 2,
-      "question": "Question 18 for 100 tiles",
-      "answer": "Answer 18"
+      "id": "custom-easy-murzdgyv-1",
+      "category": "easy",
+      "points": 4,
+      "question": "If a computer processes raw examination scores and produces the class average, what is the class average considered?",
+      "answer": "Information",
+      "hint": "It is data that has already been processed.",
+      "_id": "6ac099c3bfad17e284d13172"
     },
     {
-      "id": "q-b-100-18",
-      "category": "beginner",
-      "points": 2,
-      "question": "Question 19 for 100 tiles",
-      "answer": "Answer 19"
+      "id": "custom-easy-murzdgyv-2",
+      "category": "easy",
+      "points": 4,
+      "question": "Which type of memory is used to hold a program and its data while the program is currently running?",
+      "answer": "Primary Memory",
+      "hint": "This type of memory is temporary.",
+      "_id": "6ac099c3bfad17e284d13173"
     },
     {
-      "id": "q-b-100-19",
-      "category": "beginner",
-      "points": 2,
-      "question": "Question 20 for 100 tiles",
-      "answer": "Answer 20"
+      "id": "custom-easy-murzdgyv-3",
+      "category": "easy",
+      "points": 4,
+      "question": "Which type of memory is used to preserve files and programs even when the computer is powered off?",
+      "answer": "Secondary Memory",
+      "hint": "Hard drives and SSDs are examples.",
+      "_id": "6ac099c3bfad17e284d13174"
+    },
+    {
+      "id": "custom-easy-murzdgyv-4",
+      "category": "easy",
+      "points": 4,
+      "question": "Which number system is commonly used for UNIX file permissions?",
+      "answer": "Octal Number System",
+      "hint": "It uses digits from 0 to 7.",
+      "_id": "6ac099c3bfad17e284d13175"
+    },
+    {
+      "id": "custom-easy-murzdgyv-5",
+      "category": "easy",
+      "points": 4,
+      "question": "Which number system is commonly used for memory addresses and web color codes?",
+      "answer": "Hexadecimal Number System",
+      "hint": "It uses 0–9 and A–F.",
+      "_id": "6ac099c3bfad17e284d13176"
+    },
+    {
+      "id": "custom-easy-murzdgyv-6",
+      "category": "easy",
+      "points": 4,
+      "question": "In binary positional notation, what do we call the digit located at the far right?",
+      "answer": "Least Significant Digit",
+      "hint": "Its position has the lowest place value.",
+      "_id": "6ac099c3bfad17e284d13177"
+    },
+    {
+      "id": "custom-easy-murzdgyv-7",
+      "category": "easy",
+      "points": 4,
+      "question": "What bitwise operator produces 1 only when both corresponding bits are 1?",
+      "answer": "Bitwise AND",
+      "hint": "Its symbol is &.",
+      "_id": "6ac099c3bfad17e284d13178"
+    },
+    {
+      "id": "custom-easy-murzdgyv-8",
+      "category": "easy",
+      "points": 4,
+      "question": "What bitwise operator produces 1 when at least one of the corresponding bits is 1?",
+      "answer": "Bitwise OR",
+      "hint": "Its symbol is |.",
+      "_id": "6ac099c3bfad17e284d13179"
+    },
+    {
+      "id": "custom-easy-murzdgyv-9",
+      "category": "easy",
+      "points": 4,
+      "question": "What bitwise operator produces 1 when exactly one of the two corresponding bits is 1?",
+      "answer": "Bitwise XOR",
+      "hint": "Its symbol is ^.",
+      "_id": "6ac099c3bfad17e284d1317a"
+    },
+    {
+      "id": "custom-easy-murzdgyv-10",
+      "category": "easy",
+      "points": 4,
+      "question": "Which OS component is responsible for hiding hardware details and maintaining device driver interfaces?",
+      "answer": "Input/Output Management",
+      "hint": "It manages interaction with hardware devices.",
+      "_id": "6ac099c3bfad17e284d1317b"
+    },
+    {
+      "id": "custom-easy-murzdgyv-11",
+      "category": "easy",
+      "points": 4,
+      "question": "Which OS component handles the creation, execution, suspension, resumption, and termination of running programs?",
+      "answer": "Process Management",
+      "hint": "It also performs process scheduling.",
+      "_id": "6ac099c3bfad17e284d1317c"
+    },
+    {
+      "id": "custom-easy-murzdgyv-12",
+      "category": "easy",
+      "points": 4,
+      "question": "What term describes a situation where processes keep waiting for resources held by one another and none can continue?",
+      "answer": "Deadlock",
+      "hint": "Each process waits for a resource being held by another.",
+      "_id": "6ac099c3bfad17e284d1317d"
+    },
+    {
+      "id": "custom-easy-murzdgyv-13",
+      "category": "easy",
+      "points": 4,
+      "question": "A malicious program arrives through a phishing email, infected USB drive, or malicious link. What malware attack stage describes the attacker's initial access?",
+      "answer": "Entry",
+      "hint": "It is the first contact point with the target system.",
+      "_id": "6ac099c3bfad17e284d1317e"
+    },
+    {
+      "id": "custom-easy-murzdgyv-14",
+      "category": "easy",
+      "points": 4,
+      "question": "Which malware attack stage occurs when malicious code is delivered or spread to the intended victims?",
+      "answer": "Distribution",
+      "hint": "Email attachments and downloads are common examples.",
+      "_id": "6ac099c3bfad17e284d1317f"
+    },
+    {
+      "id": "custom-easy-murzdgyv-15",
+      "category": "easy",
+      "points": 4,
+      "question": "Which part of the CIA Triad ensures that information has not been accidentally or improperly altered?",
+      "answer": "Integrity",
+      "hint": "The data should remain trustworthy and complete.",
+      "_id": "6ac099c3bfad17e284d13180"
+    },
+    {
+      "id": "custom-moderate-murze9pd-0",
+      "category": "moderate",
+      "points": 6,
+      "question": "A computer receives a keyboard entry, processes it, then displays the result on a monitor. Which three major hardware organization components are involved in this sequence?",
+      "answer": "Input Devices, Processing, Output Devices",
+      "hint": "Follow the basic data flow in hardware organization.",
+      "_id": "6ac099c3bfad17e284d13181"
+    },
+    {
+      "id": "custom-moderate-murze9pd-1",
+      "category": "moderate",
+      "points": 6,
+      "question": "A user is editing a document and suddenly loses power before saving it. Which type of memory most likely lost the unsaved data?",
+      "answer": "Primary Memory",
+      "hint": "This memory is volatile and used while programs are running.",
+      "_id": "6ac099c3bfad17e284d13182"
+    },
+    {
+      "id": "custom-moderate-murze9pd-2",
+      "category": "moderate",
+      "points": 6,
+      "question": "A saved video file remains available even after the computer is shut down. Which type of memory is responsible for preserving it?",
+      "answer": "Secondary Memory",
+      "hint": "It is intended for long-term storage.",
+      "_id": "6ac099c3bfad17e284d13183"
+    },
+    {
+      "id": "custom-moderate-murze9pd-3",
+      "category": "moderate",
+      "points": 6,
+      "question": "If the binary number 1010 is treated as a positional number, which side contains the most significant digit?",
+      "answer": "Left side",
+      "hint": "The leftmost digit has the highest place value.",
+      "_id": "6ac099c3bfad17e284d13184"
+    },
+    {
+      "id": "custom-moderate-murze9pd-4",
+      "category": "moderate",
+      "points": 6,
+      "question": "Which number system is more compact than binary and commonly used by programmers because each digit can represent groups of binary values using digits 0 to 7?",
+      "answer": "Octal Number System",
+      "hint": "It is a base-8 system.",
+      "_id": "6ac099c3bfad17e284d13185"
+    },
+    {
+      "id": "custom-moderate-murze9pd-5",
+      "category": "moderate",
+      "points": 6,
+      "question": "Which number system is commonly used for values such as #FF0000 in web design?",
+      "answer": "Hexadecimal Number System",
+      "hint": "It uses digits 0–9 and letters A–F.",
+      "_id": "6ac099c3bfad17e284d13186"
+    },
+    {
+      "id": "custom-moderate-murze9pd-6",
+      "category": "moderate",
+      "points": 6,
+      "question": "Given x = 6 and y = 12, what is the decimal result of x AND y?",
+      "answer": "4",
+      "hint": "Compare the corresponding binary bits and keep 1 only when both are 1.",
+      "_id": "6ac099c3bfad17e284d13187"
+    },
+    {
+      "id": "custom-moderate-murze9pd-7",
+      "category": "moderate",
+      "points": 6,
+      "question": "Given x = 10 and y = 7, what is the decimal result of x OR y?",
+      "answer": "15",
+      "hint": "A result bit becomes 1 when at least one corresponding bit is 1.",
+      "_id": "6ac099c3bfad17e284d13188"
+    },
+    {
+      "id": "custom-moderate-murze9pd-8",
+      "category": "moderate",
+      "points": 6,
+      "question": "Given x = 15 and y = 9, what is the decimal result of x XOR y?",
+      "answer": "6",
+      "hint": "A result bit becomes 1 only when exactly one corresponding bit is 1.",
+      "_id": "6ac099c3bfad17e284d13189"
+    },
+    {
+      "id": "custom-moderate-murze9pd-9",
+      "category": "moderate",
+      "points": 6,
+      "question": "If the value 5 is shifted two bit positions to the left, what decimal result is produced?",
+      "answer": "20",
+      "hint": "The lesson example uses 5 << 2.",
+      "_id": "6ac099c3bfad17e284d1318a"
+    },
+    {
+      "id": "custom-moderate-murze9pd-10",
+      "category": "moderate",
+      "points": 6,
+      "question": "If the value 20 is shifted two bit positions to the right, what decimal result is produced?",
+      "answer": "5",
+      "hint": "The lesson example uses 20 >> 2.",
+      "_id": "6ac099c3bfad17e284d1318b"
+    },
+    {
+      "id": "custom-moderate-murze9pd-11",
+      "category": "moderate",
+      "points": 6,
+      "question": "An operating system moves the CPU from one process to another while several processes are in memory. What process management task is being performed?",
+      "answer": "Process Scheduling",
+      "hint": "It switches the system among multiple processes.",
+      "_id": "6ac099c3bfad17e284d1318c"
+    },
+    {
+      "id": "custom-moderate-murze9pd-12",
+      "category": "moderate",
+      "points": 6,
+      "question": "Two processes attempt to use shared data at the same time. Which process management task helps keep the shared data consistent?",
+      "answer": "Process Synchronization",
+      "hint": "It controls concurrent access to shared data.",
+      "_id": "6ac099c3bfad17e284d1318d"
+    },
+    {
+      "id": "custom-moderate-murze9pd-13",
+      "category": "moderate",
+      "points": 6,
+      "question": "A printer temporarily stores jobs so they can be processed later in sequence. What I/O management technique is being used?",
+      "answer": "Spooling",
+      "hint": "It temporarily holds data for later output or processing.",
+      "_id": "6ac099c3bfad17e284d1318e"
+    },
+    {
+      "id": "custom-moderate-murze9pd-14",
+      "category": "moderate",
+      "points": 6,
+      "question": "During a malware attack, malicious code probes a victim's system for vulnerabilities and runs an exploit. Which attack stage is this?",
+      "answer": "Exploitation",
+      "hint": "This occurs after delivery and before the harmful payload operates.",
+      "_id": "6ac099c3bfad17e284d1318f"
+    },
+    {
+      "id": "custom-moderate-murze9pd-15",
+      "category": "moderate",
+      "points": 6,
+      "question": "An organization ensures that authorized users can access important data whenever needed. Which part of the CIA Triad is being protected?",
+      "answer": "Availability",
+      "hint": "It focuses on accessibility of data when needed.",
+      "_id": "6ac099c3bfad17e284d13190"
+    },
+    {
+      "id": "custom-hard-murzeol8-0",
+      "category": "hard",
+      "points": 8,
+      "question": "Convert the decimal number 347 into binary.",
+      "answer": "101011011",
+      "hint": "Repeatedly divide the decimal value by 2 and read the remainders from bottom to top.",
+      "_id": "6ac099c3bfad17e284d13191"
+    },
+    {
+      "id": "custom-hard-murzeol8-1",
+      "category": "hard",
+      "points": 8,
+      "question": "Convert the binary number 101101101 into decimal.",
+      "answer": "365",
+      "hint": "Use the positional values of powers of 2.",
+      "_id": "6ac099c3bfad17e284d13192"
+    },
+    {
+      "id": "custom-hard-murzeol8-2",
+      "category": "hard",
+      "points": 8,
+      "question": "Convert the hexadecimal number 7B into decimal.",
+      "answer": "123",
+      "hint": "Remember that B represents 11.",
+      "_id": "6ac099c3bfad17e284d13193"
+    },
+    {
+      "id": "custom-hard-murzeol8-3",
+      "category": "hard",
+      "points": 8,
+      "question": "Convert the octal number 356 into decimal.",
+      "answer": "238",
+      "hint": "Use powers of 8 for each digit position.",
+      "_id": "6ac099c3bfad17e284d13194"
+    },
+    {
+      "id": "custom-hard-murzeol8-4",
+      "category": "hard",
+      "points": 8,
+      "question": "Convert the binary number 11010110 into octal.",
+      "answer": "326",
+      "hint": "Group the binary digits into sets of three starting from the right.",
+      "_id": "6ac099c3bfad17e284d13195"
+    },
+    {
+      "id": "custom-hard-murzeol8-5",
+      "category": "hard",
+      "points": 8,
+      "question": "Given x = 45 and y = 27, what is the decimal result of x AND y?",
+      "answer": "9",
+      "hint": "Convert both decimal numbers to binary first, then retain 1 only where both corresponding bits are 1.",
+      "_id": "6ac099c3bfad17e284d13196"
+    },
+    {
+      "id": "custom-hard-murzeol8-6",
+      "category": "hard",
+      "points": 8,
+      "question": "Given x = 42 and y = 21, what is the decimal result of x OR y?",
+      "answer": "63",
+      "hint": "Convert both values to binary and set a result bit to 1 when either corresponding bit is 1.",
+      "_id": "6ac099c3bfad17e284d13197"
+    },
+    {
+      "id": "custom-hard-murzeol8-7",
+      "category": "hard",
+      "points": 8,
+      "question": "Given x = 53 and y = 29, what is the decimal result of x XOR y?",
+      "answer": "40",
+      "hint": "XOR produces 1 only when the corresponding bits are different.",
+      "_id": "6ac099c3bfad17e284d13198"
+    },
+    {
+      "id": "custom-hard-murzeol8-8",
+      "category": "hard",
+      "points": 8,
+      "question": "If the decimal value 13 is shifted three positions to the left using the bitwise left-shift operator, what decimal value is produced?",
+      "answer": "104",
+      "hint": "Shift the binary representation three places to the left and fill the right side with zeros.",
+      "_id": "6ac099c3bfad17e284d13199"
+    },
+    {
+      "id": "custom-hard-murzeol8-9",
+      "category": "hard",
+      "points": 8,
+      "question": "Several programs are loaded in main memory, and the operating system repeatedly switches the CPU among them so that they appear to run concurrently. What OS task is responsible for this behavior?",
+      "answer": "Process Scheduling",
+      "hint": "It is part of process management and switches the system among multiple processes.",
+      "_id": "6ac099c3bfad17e284d1319a"
+    },
+    {
+      "id": "custom-hard-murzeol8-10",
+      "category": "hard",
+      "points": 8,
+      "question": "Process A is waiting for a resource held by Process B, Process B is waiting for one held by Process C, and Process C is waiting for one held by Process A. None of them releases its current resource. What situation has occurred?",
+      "answer": "Deadlock",
+      "hint": "Each process waits indefinitely for a resource held by another process.",
+      "_id": "6ac099c3bfad17e284d1319b"
+    },
+    {
+      "id": "custom-hard-murzeol8-11",
+      "category": "hard",
+      "points": 8,
+      "question": "A printer receives several documents faster than it can print them, so the operating system temporarily holds the jobs and processes them later in order. What I/O management technique is being demonstrated?",
+      "answer": "Spooling",
+      "hint": "It temporarily holds data sequences before they are processed or output.",
+      "_id": "6ac099c3bfad17e284d1319c"
+    },
+    {
+      "id": "custom-hard-murzeol8-12",
+      "category": "hard",
+      "points": 8,
+      "question": "A user opens a malicious document. Hidden code inside it searches the computer for a vulnerability and uses that weakness to gain control. Which stage of a malware attack is being described?",
+      "answer": "Exploitation",
+      "hint": "At this stage, malicious code probes for and takes advantage of vulnerabilities.",
+      "_id": "6ac099c3bfad17e284d1319d"
+    },
+    {
+      "id": "custom-hard-murzeol8-13",
+      "category": "hard",
+      "points": 8,
+      "question": "An attacker has already gained access to a computer, and the malicious software now delivers ransomware that begins encrypting the victim's files. Which malware attack stage is being described?",
+      "answer": "Infection",
+      "hint": "This is when the harmful payload is delivered after successful infiltration.",
+      "_id": "6ac099c3bfad17e284d1319e"
+    },
+    {
+      "id": "custom-hard-murzeol8-14",
+      "category": "hard",
+      "points": 8,
+      "question": "A company's database is available to employees, but an unauthorized person secretly changes several records. Which component of the CIA Triad has primarily been violated?",
+      "answer": "Integrity",
+      "hint": "This principle requires data to remain trustworthy, complete, and protected from unauthorized modification.",
+      "_id": "6ac099c3bfad17e284d1319f"
+    },
+    {
+      "id": "custom-hard-murzeol8-15",
+      "category": "hard",
+      "points": 8,
+      "question": "A system requires a password and a second authentication factor before granting access. What security approach is being applied?",
+      "answer": "Two-Factor Authentication (2FA)",
+      "hint": "It requires two factors of authentication instead of only one.",
+      "_id": "6ac099c3bfad17e284d131a0"
+    },
+    {
+      "id": "custom-insane-murzfdzv-0",
+      "category": "insane",
+      "points": 10,
+      "question": "Convert the hexadecimal number 3AF into decimal.",
+      "answer": "943",
+      "hint": "Convert A to 10 and F to 15, then use powers of 16.",
+      "_id": "6ac099c3bfad17e284d131a1"
+    },
+    {
+      "id": "custom-insane-murzfdzv-1",
+      "category": "insane",
+      "points": 10,
+      "question": "Convert the octal number 735 directly into binary.",
+      "answer": "111011101",
+      "hint": "Convert each octal digit into its corresponding 3-bit binary value.",
+      "_id": "6ac099c3bfad17e284d131a2"
+    },
+    {
+      "id": "custom-insane-murzfdzv-2",
+      "category": "insane",
+      "points": 10,
+      "question": "Convert the decimal number 725 into hexadecimal.",
+      "answer": "2D5",
+      "hint": "Repeatedly divide by 16 and convert remainders greater than 9 into letters.",
+      "_id": "6ac099c3bfad17e284d131a3"
+    },
+    {
+      "id": "custom-insane-murzfdzv-3",
+      "category": "insane",
+      "points": 10,
+      "question": "Convert the binary number 11010111101 into hexadecimal.",
+      "answer": "6BD",
+      "hint": "Group the binary digits into sets of four starting from the right.",
+      "_id": "6ac099c3bfad17e284d131a4"
+    },
+    {
+      "id": "custom-insane-murzfdzv-4",
+      "category": "insane",
+      "points": 10,
+      "question": "Given x = 93 and y = 58, what is the decimal result of x AND y?",
+      "answer": "24",
+      "hint": "Convert both numbers to binary, perform AND bit by bit, then convert the result back to decimal.",
+      "_id": "6ac099c3bfad17e284d131a5"
+    },
+    {
+      "id": "custom-insane-murzfdzv-5",
+      "category": "insane",
+      "points": 10,
+      "question": "Given x = 117 and y = 75, what is the decimal result of x XOR y?",
+      "answer": "62",
+      "hint": "XOR places 1 only where the corresponding bits are different.",
+      "_id": "6ac099c3bfad17e284d131a6"
+    },
+    {
+      "id": "custom-insane-murzfdzv-6",
+      "category": "insane",
+      "points": 10,
+      "question": "Given x = 201 and y = 156, what is the decimal result of x OR y?",
+      "answer": "221",
+      "hint": "Convert both values to binary and apply OR to every corresponding bit.",
+      "_id": "6ac099c3bfad17e284d131a7"
+    },
+    {
+      "id": "custom-insane-murzfdzv-7",
+      "category": "insane",
+      "points": 10,
+      "question": "A value of 23 is shifted three positions to the left and the resulting value is then shifted two positions to the right. What is the final decimal value?",
+      "answer": "46",
+      "hint": "Apply 23 << 3 first, then apply >> 2 to the result.",
+      "_id": "6ac099c3bfad17e284d131a8"
+    },
+    {
+      "id": "custom-insane-murzfdzv-8",
+      "category": "insane",
+      "points": 10,
+      "question": "A program is loaded into main memory, temporarily stopped, later continued, and finally removed after completion. Which OS component is primarily responsible for all of these operations?",
+      "answer": "Process Management",
+      "hint": "Its tasks include creating, loading, executing, suspending, resuming, and terminating processes.",
+      "_id": "6ac099c3bfad17e284d131a9"
+    },
+    {
+      "id": "custom-insane-murzfdzv-9",
+      "category": "insane",
+      "points": 10,
+      "question": "Three running processes each hold a resource needed by another process, and none can continue because each refuses to release its current resource. What problem must process management prevent or resolve?",
+      "answer": "Deadlock",
+      "hint": "The processes remain waiting indefinitely for one another's resources.",
+      "_id": "6ac099c3bfad17e284d131aa"
+    },
+    {
+      "id": "custom-insane-murzfdzv-10",
+      "category": "insane",
+      "points": 10,
+      "question": "An application sends data to a printer without needing to know the printer's internal hardware details. The OS also temporarily stores print jobs because the printer works more slowly than the application. Which OS component and technique are being demonstrated?",
+      "answer": "I/O Management and Spooling",
+      "hint": "One hides hardware details while the other temporarily holds output jobs.",
+      "_id": "6ac099c3bfad17e284d131ab"
+    },
+    {
+      "id": "custom-insane-murzfdzv-11",
+      "category": "insane",
+      "points": 10,
+      "question": "A user successfully logs in with a password, but then attempts to open a protected file for which the account has no read permission. Which OS component should block this action?",
+      "answer": "Protection",
+      "hint": "Access control determines who may read, write, or execute specific resources.",
+      "_id": "6ac099c3bfad17e284d131ac"
+    },
+    {
+      "id": "custom-insane-murzfdzv-12",
+      "category": "insane",
+      "points": 10,
+      "question": "A malicious email reaches hundreds of employees. One employee opens the attached document, which silently searches for a software weakness. After finding one, malicious code enters the system and later launches ransomware. Identify the malware stages represented in order after the email reaches the employees.",
+      "answer": "Distribution, Exploitation, Infection, Execution",
+      "hint": "Follow the progression from spreading the malicious file to exploiting a weakness, installing the harmful payload, and carrying out its action.",
+      "_id": "6ac099c3bfad17e284d131ad"
+    },
+    {
+      "id": "custom-insane-murzfdzv-13",
+      "category": "insane",
+      "points": 10,
+      "question": "A security tool continuously watches a computer for suspicious malicious activity instead of waiting for a scheduled manual scan. What type of anti-malware detection mechanism is being used?",
+      "answer": "Real Time Monitor",
+      "hint": "The malware lesson distinguishes this from a scanner.",
+      "_id": "6ac099c3bfad17e284d131ae"
+    },
+    {
+      "id": "custom-insane-murzfdzv-14",
+      "category": "insane",
+      "points": 10,
+      "question": "A company's records remain accessible to authorized employees and have not been altered, but an unauthorized outsider is able to view confidential customer information. Which CIA Triad property has failed while the other two remain intact?",
+      "answer": "Confidentiality",
+      "hint": "The data are still accurate and available, but unauthorized access has occurred.",
+      "_id": "6ac099c3bfad17e284d131af"
+    },
+    {
+      "id": "custom-insane-murzfdzv-15",
+      "category": "insane",
+      "points": 10,
+      "question": "A hacker illegally enters a system, exploits a vulnerability, installs a Trojan, and attempts to obtain financial gain. Based on the classifications in the security lesson, what type of hacker is described?",
+      "answer": "Black Hat Hacker",
+      "hint": "This type acts illegally with malicious intent and may use malware for financial gain.",
+      "_id": "6ac099c3bfad17e284d131b0"
     }
   ],
-  "activeGameId": null
+  "activeGameId": "game-murzfm7d"
 }
